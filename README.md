@@ -9,6 +9,13 @@
 </p>
 <!-- splarg-storefront:end -->
 
+<!-- splarg-itch-media:start -->
+<p align="center">
+  <a href="https://splarg.itch.io/fusion-critical-mass"><img src="docs/itch/cover.png" alt="Fusion cover art" width="640"></a>
+</p>
+<!-- splarg-itch-media:end -->
+
+
 > There is no optimal strategy.
 
 Fusion is a falling-block system in which blocks do not clear.
